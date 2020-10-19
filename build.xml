@@ -11,7 +11,7 @@
 <property name="sonar.projectName" value="SonarAntProject" />
 <property name="sonar.projectVersion" value="1.0" />
 <property name="sonar.sources" value="core-customize" />
-<property name="sonar.java.binaries" value="build" />
+<property name="sonar.java.binaries" value="tiger" />
 <property name="sonar.java.libraries" value="lib/*.jar" />
 
  
