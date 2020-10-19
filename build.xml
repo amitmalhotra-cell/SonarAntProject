@@ -11,7 +11,7 @@
 <property name="sonar.projectName" value="SonarAntProject" />
 <property name="sonar.projectVersion" value="1.0" />
 <property name="sonar.sources" value="core-customize/hybris/bin/custom/tiger/src" />
-<property name="sonar.java.binaries" value="**/classes" />
+<property name="sonar.java.binaries" value="." />
 <property name="sonar.java.libraries" value="**/*.jar" />
 
  
