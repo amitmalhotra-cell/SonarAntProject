@@ -50,6 +50,7 @@ public class TigerStandalone
 		System.out.println("Session ID: " + jaloSession.getSessionID()); //NOPMD
 		System.out.println("User: " + jaloSession.getUser()); //NOPMD
 		Utilities.printAppInfo();
+		System.out.println("Hello World !");
 
 		RedeployUtilities.shutdown();
 	}
