@@ -12,7 +12,7 @@
 <property name="sonar.projectVersion" value="1.0" />
 <property name="sonar.sources" value="core-customize" />
 <property name="sonar.java.binaries" value="." />
-<property name="sonar.java.libraries" value="lib/*.jar" />
+<property name="sonar.java.libraries" value="*.jar" />
 
  
 <!-- Define SonarScanner for Ant Target -->
